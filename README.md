@@ -11,11 +11,8 @@ npm install
 ```
 ### Запуск всех тестов
 ```text
-npm run testALL
+npm run homeworktest
 ```
-### Запуск конкретного теста (см. spec в package.json)
-```text
-npm run test
 ```
 ### Генерация allure репорта
 ```text
