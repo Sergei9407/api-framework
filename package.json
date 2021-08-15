@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "report": "allure generate ./allure-results -c && allure open",
-    "testALL": "mocha tests/**/*.ts",
-    "test": "mocha tests/demo_allure_test.ts"
+    "homeworktest": "mocha tests/27_3_Task.ts"
   },
   "keywords": [],
   "author": "",
